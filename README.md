@@ -16,9 +16,9 @@ node server/app.js
 ```
 ### Server got 3 simple endpoints:
 
-/get_users returns list of all users
-/register register new user by given name
-/get_rand_user API call, get random user
+[/get_users](http://37.46.209.112:4000/get_users) returns list of all users <br/>
+[/register](http://37.46.209.112:4000/register)register new user by given name <br/>
+[/get_rand_user](http://37.46.209.112:4000/get_rand_user) API call, get random user <br/>
 
 ## Frontend setup
 Backend is configured by default to run on port 8080. 
