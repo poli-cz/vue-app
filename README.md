@@ -1,6 +1,7 @@
 # Vue demonstration
 
-Example of Vue + node fullstack. 
+Example of Vue + node fullstack. One page application which allows users to register and view registered users. Users can also generate random username.
+This is handled by 3rd part API. Application consists of two key parts, server, for handling requests, and calling api. And frontend for rendering all application.
 
 For testing purposes whole server is available here:
 
